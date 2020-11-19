@@ -56,7 +56,6 @@ int main()
                         flag = true;
                     }
                     else {
-                        cout << "Please pick one of the valid repair options" << endl;
                         break;
                     }
                 }
